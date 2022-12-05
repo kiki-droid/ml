@@ -42,3 +42,17 @@ value of X using the Gradient Descent Algorithm.
         d. The weights values from hidden-output layers are 0.2, 0.6, 0.4, 0.7.
         e. The activation to use is the Sigmoid activation function. 
         f. Bias is 1 for input and hidden layer. 
+       
+12 - Cluster the IRIS dataset using K-means algorithm without using any inbuilt library functions.
+
+13 - Find the optimal value of K using the Elbow method on the IRIS dataset.
+
+14 - K-means using in-built library functions on the IRIS dataset.
+
+15 - Implementation of Naive Bayesian classifier to classify patterns from the Car Evaluation dataset.
+
+16 - Implementation of Decision tree classifier to classify patterns from the Car Evaluation dataset.
+
+18 - Classifying the IRIS dataset using kNN algorithm without using any inbuilt library functions.
+
+19 - Finding the first two principal components of the IRIS dataset using Principal Component Analysis (PCA) algorithm without using any inbuilt library functions.
